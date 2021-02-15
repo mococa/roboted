@@ -1,0 +1,3 @@
+{"comando":["tocar","toque","play"],"function":"(musica)=>{play(musica)}","_id":"Fu7Y7eWErFyLWu3Y"}
+{"comando":["youtube","canal"],"id":"youtube","url":["http://www.youtube.com/"],"function":"plataforma","db":[],"_id":"fqRRyVbAHUM2SSHP"}
+{"comando":["twitch","live","stream","streamer"],"url":["http://www.twitch.tv/","http://www.twitch.com/"],"id":"twitch","function":"plataforma","db":[{"nome":"sindelitcis","canal":"sindelitcis"},{"nome":"tirano","canal":"stktirano"}],"_id":"x9IbBOuLGgJjGKTL"}
