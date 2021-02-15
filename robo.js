@@ -77,7 +77,6 @@ function plataforma(objeto, nome){
     if(carinha != undefined){
         console.log("Canal do(a) "+carinha.nome +" é "+objeto.url[0]+carinha.canal)
     }else{
-
         rl.question(naoConhecoTxt, function(canal){
                 var regexUrl = /^(((https?:\/\/)?(www\.)?(.+[a-z]\.\w{2,3})\/.+[a-z])|\w*)$/gi
                 if(regexUrl.test(canal)){
